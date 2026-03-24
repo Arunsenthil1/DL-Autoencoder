@@ -149,12 +149,14 @@ def visualize_denoising(model, loader, num_images=10):
 
 
 ### Training loss
-<img width="353" height="154" alt="image" src="https://github.com/user-attachments/assets/8ce969e2-ce2b-47c5-a097-cf0054b74882" />
+<img width="551" height="160" alt="image" src="https://github.com/user-attachments/assets/1f1f53cd-4179-4de3-a56f-a52673ca3414" />
+
 
 
 ## Original vs Noisy Vs Reconstructed Image
 
-<img width="1771" height="638" alt="image" src="https://github.com/user-attachments/assets/c077613d-75fd-4743-bf31-1485cdb3eb56" />
+<img width="1401" height="511" alt="image" src="https://github.com/user-attachments/assets/a9b17fff-babb-46b6-8e8d-34582d824da8" />
+
 
 
 ## RESULT
